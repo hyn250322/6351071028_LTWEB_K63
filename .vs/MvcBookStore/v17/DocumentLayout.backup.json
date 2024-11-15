@@ -11,16 +11,28 @@
       "RelativeMoniker": "D:0:0:{F49072ED-DBD1-4FA4-8B82-E0C5E9D5400D}|MvcBookStore\\MvcBookStore.csproj|solutionrelative:mvcbookstore\\views\\bookstore\\sptheonxb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F49072ED-DBD1-4FA4-8B82-E0C5E9D5400D}|MvcBookStore\\MvcBookStore.csproj|D:\\zalo\\MvcBookStore\\mvcbookstore\\views\\bookstore\\sptheochude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F49072ED-DBD1-4FA4-8B82-E0C5E9D5400D}|MvcBookStore\\MvcBookStore.csproj|solutionrelative:mvcbookstore\\views\\bookstore\\sptheochude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49072ED-DBD1-4FA4-8B82-E0C5E9D5400D}|MvcBookStore\\MvcBookStore.csproj|d:\\zalo\\mvcbookstore\\mvcbookstore\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F49072ED-DBD1-4FA4-8B82-E0C5E9D5400D}|MvcBookStore\\MvcBookStore.csproj|solutionrelative:mvcbookstore\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F49072ED-DBD1-4FA4-8B82-E0C5E9D5400D}|MvcBookStore\\MvcBookStore.csproj|D:\\zalo\\MvcBookStore\\mvcbookstore\\controllers\\bookstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F49072ED-DBD1-4FA4-8B82-E0C5E9D5400D}|MvcBookStore\\MvcBookStore.csproj|solutionrelative:mvcbookstore\\controllers\\bookstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F49072ED-DBD1-4FA4-8B82-E0C5E9D5400D}|MvcBookStore\\MvcBookStore.csproj|D:\\zalo\\MvcBookStore\\mvcbookstore\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F49072ED-DBD1-4FA4-8B82-E0C5E9D5400D}|MvcBookStore\\MvcBookStore.csproj|solutionrelative:mvcbookstore\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F49072ED-DBD1-4FA4-8B82-E0C5E9D5400D}|MvcBookStore\\MvcBookStore.csproj|d:\\zalo\\mvcbookstore\\mvcbookstore\\views\\admin\\suasach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F49072ED-DBD1-4FA4-8B82-E0C5E9D5400D}|MvcBookStore\\MvcBookStore.csproj|solutionrelative:mvcbookstore\\views\\admin\\suasach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F49072ED-DBD1-4FA4-8B82-E0C5E9D5400D}|MvcBookStore\\MvcBookStore.csproj|D:\\zalo\\MvcBookStore\\mvcbookstore\\views\\bookstore\\sptheochude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F49072ED-DBD1-4FA4-8B82-E0C5E9D5400D}|MvcBookStore\\MvcBookStore.csproj|solutionrelative:mvcbookstore\\views\\bookstore\\sptheochude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F49072ED-DBD1-4FA4-8B82-E0C5E9D5400D}|MvcBookStore\\MvcBookStore.csproj|d:\\zalo\\mvcbookstore\\mvcbookstore\\views\\admin\\themmoisach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F49072ED-DBD1-4FA4-8B82-E0C5E9D5400D}|MvcBookStore\\MvcBookStore.csproj|solutionrelative:mvcbookstore\\views\\admin\\themmoisach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49072ED-DBD1-4FA4-8B82-E0C5E9D5400D}|MvcBookStore\\MvcBookStore.csproj|D:\\zalo\\MvcBookStore\\mvcbookstore\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F49072ED-DBD1-4FA4-8B82-E0C5E9D5400D}|MvcBookStore\\MvcBookStore.csproj|solutionrelative:mvcbookstore\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F49072ED-DBD1-4FA4-8B82-E0C5E9D5400D}|MvcBookStore\\MvcBookStore.csproj|D:\\zalo\\MvcBookStore\\mvcbookstore\\views\\bookstore\\chude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -42,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -91,6 +103,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\zalo\\MvcBookStore\\MvcBookStore\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "MvcBookStore\\Views\\Admin\\Login.cshtml",
+              "ToolTip": "D:\\zalo\\MvcBookStore\\MvcBookStore\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "MvcBookStore\\Views\\Admin\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T15:34:06.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuaSach.cshtml",
+              "DocumentMoniker": "D:\\zalo\\MvcBookStore\\MvcBookStore\\Views\\Admin\\SuaSach.cshtml",
+              "RelativeDocumentMoniker": "MvcBookStore\\Views\\Admin\\SuaSach.cshtml",
+              "ToolTip": "D:\\zalo\\MvcBookStore\\MvcBookStore\\Views\\Admin\\SuaSach.cshtml",
+              "RelativeToolTip": "MvcBookStore\\Views\\Admin\\SuaSach.cshtml",
+              "ViewState": "AgIAABgAAADAJDMzMzMbwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T15:16:13.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThemMoiSach.cshtml",
+              "DocumentMoniker": "D:\\zalo\\MvcBookStore\\MvcBookStore\\Views\\Admin\\ThemMoiSach.cshtml",
+              "RelativeDocumentMoniker": "MvcBookStore\\Views\\Admin\\ThemMoiSach.cshtml",
+              "ToolTip": "D:\\zalo\\MvcBookStore\\MvcBookStore\\Views\\Admin\\ThemMoiSach.cshtml",
+              "RelativeToolTip": "MvcBookStore\\Views\\Admin\\ThemMoiSach.cshtml",
+              "ViewState": "AgIAABgAAADgYWZmZmYkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T15:15:46.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "_LayoutUser.cshtml",
               "DocumentMoniker": "D:\\zalo\\MvcBookStore\\MvcBookStore\\Views\\Shared\\_LayoutUser.cshtml",
               "RelativeDocumentMoniker": "MvcBookStore\\Views\\Shared\\_LayoutUser.cshtml",
@@ -108,13 +159,14 @@
               "RelativeDocumentMoniker": "MvcBookStore\\Views\\BookStore\\SPTheoNXB.cshtml",
               "ToolTip": "D:\\zalo\\MvcBookStore\\MvcBookStore\\Views\\BookStore\\SPTheoNXB.cshtml",
               "RelativeToolTip": "MvcBookStore\\Views\\BookStore\\SPTheoNXB.cshtml",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAYwB4AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-15T13:48:25.564Z"
+              "WhenOpened": "2024-11-15T13:48:25.564Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "dbQLBanSach.Context.cs",
               "DocumentMoniker": "D:\\zalo\\MvcBookStore\\MvcBookStore\\Models\\dbQLBanSach.Context.cs",
               "RelativeDocumentMoniker": "MvcBookStore\\Models\\dbQLBanSach.Context.cs",
@@ -126,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "GioHangController.cs",
               "DocumentMoniker": "D:\\zalo\\MvcBookStore\\MvcBookStore\\Controllers\\GioHangController.cs",
               "RelativeDocumentMoniker": "MvcBookStore\\Controllers\\GioHangController.cs",
@@ -138,19 +190,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "SPTheoChuDe.cshtml",
               "DocumentMoniker": "D:\\zalo\\MvcBookStore\\MvcBookStore\\Views\\BookStore\\SPTheoChuDe.cshtml",
               "RelativeDocumentMoniker": "MvcBookStore\\Views\\BookStore\\SPTheoChuDe.cshtml",
               "ToolTip": "D:\\zalo\\MvcBookStore\\MvcBookStore\\Views\\BookStore\\SPTheoChuDe.cshtml",
               "RelativeToolTip": "MvcBookStore\\Views\\BookStore\\SPTheoChuDe.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAABoPRsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAACqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-15T13:14:33.8Z"
+              "WhenOpened": "2024-11-15T13:14:33.8Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ChuDe.cshtml",
               "DocumentMoniker": "D:\\zalo\\MvcBookStore\\MvcBookStore\\Views\\BookStore\\ChuDe.cshtml",
               "RelativeDocumentMoniker": "MvcBookStore\\Views\\BookStore\\ChuDe.cshtml",
@@ -162,15 +215,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BookStoreController.cs",
               "DocumentMoniker": "D:\\zalo\\MvcBookStore\\MvcBookStore\\Controllers\\BookStoreController.cs",
               "RelativeDocumentMoniker": "MvcBookStore\\Controllers\\BookStoreController.cs",
               "ToolTip": "D:\\zalo\\MvcBookStore\\MvcBookStore\\Controllers\\BookStoreController.cs",
               "RelativeToolTip": "MvcBookStore\\Controllers\\BookStoreController.cs",
-              "ViewState": "AgIAAB0AAAAAAgAAAAAmwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAACgk5mZmZknwDEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T13:06:57.574Z"
+              "WhenOpened": "2024-11-15T13:06:57.574Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -180,7 +234,7 @@
               "RelativeDocumentMoniker": "MvcBookStore\\Views\\BookStore\\Index.cshtml",
               "ToolTip": "D:\\zalo\\MvcBookStore\\MvcBookStore\\Views\\BookStore\\Index.cshtml",
               "RelativeToolTip": "MvcBookStore\\Views\\BookStore\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAMzMzMzMbwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-15T09:44:01.671Z",
               "EditorCaption": ""

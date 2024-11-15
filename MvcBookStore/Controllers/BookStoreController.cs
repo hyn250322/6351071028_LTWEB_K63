@@ -11,20 +11,24 @@ using System.Web.UI;
 
 namespace MvcBookStore.Controllers
 {
+
     public class BookStoreController : Controller
     {
         private QLBanSachEntities db = new QLBanSachEntities();
         // GET: BookStore
-
+        public static string RemoveHtmlTags(string input)
+        {
+            return System.Text.RegularExpressions.Regex.Replace(input, "<.*?>", String.Empty);
+        }
         private List<SACH> LaySachMoi(int count)
         {
             return db.SACHes.OrderByDescending(a => a.Ngaycapnhat).Take(count).ToList();
         }
         public ActionResult Index(int ? page)
         {
-            int pageSize = 2;
+            int pageSize = 4;
             int pageNum = (page ?? 1);
-            var sachmoi = LaySachMoi(4);
+            var sachmoi = LaySachMoi(8);
             return View(sachmoi.ToPagedList(pageNum,pageSize));
         }
 
