@@ -5,6 +5,10 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
+using PagedList;
+using PagedList.Mvc;
+using System.Web.UI;
+
 namespace MvcBookStore.Controllers
 {
     public class BookStoreController : Controller
@@ -12,14 +16,16 @@ namespace MvcBookStore.Controllers
         private QLBanSachEntities db = new QLBanSachEntities();
         // GET: BookStore
 
-        private List<SACH> LaySacMoi(int count)
+        private List<SACH> LaySachMoi(int count)
         {
             return db.SACHes.OrderByDescending(a => a.Ngaycapnhat).Take(count).ToList();
         }
-        public ActionResult Index()
+        public ActionResult Index(int ? page)
         {
-            var sachmoi = LaySacMoi(5);
-            return View(sachmoi);
+            int pageSize = 2;
+            int pageNum = (page ?? 1);
+            var sachmoi = LaySachMoi(4);
+            return View(sachmoi.ToPagedList(pageNum,pageSize));
         }
 
         public ActionResult ChuDe()
@@ -28,21 +34,31 @@ namespace MvcBookStore.Controllers
             return View(chude);
         }
 
+
+
         public ActionResult NhaXuatBan()
         {
             var chude = db.NHAXUATBANs.ToList();
             return View(chude);
         }
 
-        public ActionResult SPTheoChuDe(int id)
+        public ActionResult SPTheoChuDe(int id, int? page)
         {
+            int pageSize = 2;
+            int pageNum = (page ?? 1);
             var sach = db.SACHes.Where(c => c.MaCD == id).ToList();
-            return View(sach);
+
+            return View(sach.ToPagedList(pageNum, pageSize));
         }
-        public ActionResult SPTheoNXB(int id)
+
+        public ActionResult SPTheoNXB(int id, int? page)
         {
+            int pageSize = 2; // Số sách hiển thị mỗi trang
+            int pageNum = (page ?? 1); // Lấy trang hiện tại, mặc định là trang 1
             var sach = db.SACHes.Where(c => c.MaNXB == id).ToList();
-            return View(sach);
+
+            // Trả về View với dữ liệu phân trang
+            return View(sach.ToPagedList(pageNum, pageSize));
         }
         public ActionResult Details(int id)
         {
